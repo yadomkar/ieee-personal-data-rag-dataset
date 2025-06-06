@@ -1,0 +1,42 @@
+[
+  {
+    "query": "What conversations relate to the client feedback session and what should I prepare?",
+    "expected_answer": "To prepare for the Client Feedback Session scheduled for April 9, 2025, at 13:00:00, review the March 18 Product Review for key insights. Refer to the conversation between Dana and Charlie on March 26, where Dana discusses using insights from that review to draft questions. A reminder is set for April 8 to finalize those questions. Additionally, the task 'Research Competitor AI Products' due on April 5 may offer relevant insights. Prepare an agenda, clarify objectives, and collect performance metrics to ensure the session is productive."
+  },
+  {
+    "query": "Today is March 30. What are my most important meetings and deadlines for the next 10 days, and how are they connected?",
+    "expected_answer": "From March 30 to April 9, your key events include the AI Product Launch Strategy Meeting on March 31 at 10:00 AM and the Marketing Plan Review on the same day at 3:00 PM. These build upon the March 18 Product Review and March 24 Strategy Session. You have tasks due on April 2 (Update Visuals for Marketing Plan), April 3 (All-Hands Meeting at 11:00 AM), April 5 (Research Competitor AI Products), and April 9 (Client Feedback Session at 1:00 PM). Prepare questions by April 8 as per the reminder."
+  },
+  {
+    "query": "What tasks contribute to the AI product launch and when are they due?",
+    "expected_answer": "Tasks contributing to the AI product launch include 'Finalize AI Product Deck' due on March 30, 'Update Visuals for the Marketing Plan' due on April 2, and 'Research Competitor AI Products' due on April 5. These tasks support the March 31 strategy meeting and the overall launch plan aligned with the March 18 product review."
+  },
+  {
+    "query": "What are the links between March 18 and the events on March 31?",
+    "expected_answer": "The March 18 Product Review revealed gaps and action items that informed the scheduling of the AI Product Launch Strategy Meeting and the Marketing Plan Review on March 31. The March 31 events are meant to finalize plans and visuals in preparation for launch, incorporating feedback gathered during the March 18 review."
+  },
+  {
+    "query": "Summarize my April schedule including personal events and work priorities.",
+    "expected_answer": "In April, key work events include the All-Hands Meeting on April 3, the Client Feedback Session on April 9, and the Data Collection Workshop on April 10. Tasks due include updating visuals by April 2, researching competitors by April 5, and organizing the data workshop. Personal items include a gym membership renewal on April 1, a family reunion on April 7, and submitting expense reports on April 4. Also, attend the Team Building Retreat on April 6."
+  },
+  {
+    "query": "What should I prepare before the all-hands meeting on April 3?",
+    "expected_answer": "Before the April 3 All-Hands Meeting, review the AI Module Testing notes from March 20, especially the onboarding data issues. Organize the Data Collection Workshop scheduled for April 10. Also, review conversations and notes related to these issues to ensure a well-informed update during the meeting."
+  },
+  {
+    "query": "What actions follow from the March 24 strategy session?",
+    "expected_answer": "The March 24 strategy session emphasized finalizing the AI product deck and reviewing the marketing plan. This led to tasks due on March 30 and April 2, and two key meetings on March 31 \u2014 the strategy and marketing reviews. These sessions consolidate insights from the team to move the product launch forward."
+  },
+  {
+    "query": "Where do I need to be and at what time during the first week of April?",
+    "expected_answer": "On April 1, renew your gym membership by 6:00 PM. April 2 is the deadline to update marketing visuals. On April 3, attend the All-Hands Meeting at 11:00 AM via Zoom. On April 5, complete competitor research and book the family reunion caterer by noon. On April 6, attend the Team Building Retreat at 8:30 AM at the Mountain Resort. On April 7, the family reunion takes place at 10:00 AM."
+  },
+  {
+    "query": "What should I prepare ahead of the April 6 team building retreat?",
+    "expected_answer": "Ahead of the April 6 Team Building Retreat at the Mountain Resort, ensure RSVPs are confirmed and transport is arranged as noted in the event description. Also, submit expense reports on April 4 to cover any related costs. Coordinate with attendees and finalize all logistical details."
+  },
+  {
+    "query": "How does the March 26 conversation between Dana and Charlie relate to my responsibilities in early April?",
+    "expected_answer": "On March 26, Dana told Charlie she would prepare questions for the April 9 Client Feedback Session using insights from the March 18 Product Review. This aligns with your responsibility to finalize questions by April 8 and gather performance data, as well as tasks due on April 5 that support the session."
+  }
+]
